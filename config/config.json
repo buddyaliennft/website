@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0701f73B2aE7CdE7cbfAba77a1F2093129cB945C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x0701f73b2ae7cde7cbfaba77a1f2093129cb945c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Buddy Alien",
+  "SYMBOL": "BDA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/buddy-alien",
+  "SHOW_BACKGROUND": true
+}
